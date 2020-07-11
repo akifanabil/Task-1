@@ -1,0 +1,21 @@
+body{
+    background-color: #ebe6e5;
+}
+
+h1{
+    background-color: lightgrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#arab {
+    text-align: right;
+    background-color: #b4bad4;
+    padding: 8px 10px;
+    margin-left:0px ;
+}
+
+#indo{
+    background-color: #DFD8DC;
+    padding: 5px 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
